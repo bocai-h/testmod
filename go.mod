@@ -1,3 +1,3 @@
-module github.com/robteix/testmod
+module github.com/bocai-h/testmod
 
 go 1.13
